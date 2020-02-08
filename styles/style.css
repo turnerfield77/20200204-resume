@@ -17,4 +17,6 @@ header h1 {
 div {
     border-bottom: 3px solid rgba(107, 94, 70, 0.288);
     border-right: 3px solid rgba(107, 94, 70, 0.288);
+    padding-bottom: 3%;
+    padding-right: 3%;
 }
