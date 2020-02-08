@@ -1,0 +1,12 @@
+html {
+    font-family: sans-serif;
+}
+
+#profile-pic {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    text-align: center;
+}
